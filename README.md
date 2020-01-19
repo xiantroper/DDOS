@@ -1,2 +1,1 @@
-1. How to use Hammer [`Watch it`](http://www.youtube.com/watch?v=HVbRUhX2EPo) 
-2. Fork it...
+1. do not replace the code in the file because it can cause ERROR
